@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM16",
+    "sketch": "buzzer.ino",
+    "programmer": "arduino:avrispmkii"
+}
